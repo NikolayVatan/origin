@@ -1,0 +1,8 @@
+version: '3.5'
+services:
+  app:
+    container_name: origin
+    build: .
+    ports:
+      - 3314:5000
+    restart: always
