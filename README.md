@@ -10,7 +10,7 @@
 
 1. Установить из Git
 
- ```$git clone https://github.com/NikolayVatan/gitcheck.git```
+ ```https://github.com/NikolayVatan/origin.git```
 
 Настройка Docker.
 Перейдите в командную строку и введите следующие команду:
